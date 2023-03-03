@@ -42,3 +42,48 @@ A computer with server software can provide services simultaneously to one or ma
 
 # NETWORK COMPONENTS
 ## NETWORK INFRASTRUCTURE
+A computer with server software can provide services simultaneously to one or many clients
+
+![alt Network devices symbols](../Images/NetworkDevices_symbols.PNG)
+
+
+## END DEVICES
+- Also known as hosts
+    - PCs
+    - Network printers
+    - Telephones and teleconferencing equipment
+    - Security cameras
+    - Mobile devices
+- And end device (or host) is either the source or destination of message transmited over the network
+    
+
+# ISP CONECTIVITY OPTIONS
+## ISP SERVICES
+An Internet Service Provider (ISP) provides the link between the home network and the internet. An ISP can be the local cable provider, a landline telephone service provider, the cellular network that provides your smartphone service, or an independent provider who leases bandwidth on the physical network infrastructure of another company.
+
+Each ISP connects to other ISPs to form a network.
+
+## ISP CONNECTIONS
+The top portion of the figure displays the simplest ISP connection option. It consists of a modem that provides a direct connection between a computer and the ISP. This option should not be used though, because your computer is not protected on the internet.
+
+As shown in the bottom portion of the figure, a router is required to securely connect a computer to an ISP. This is the most common connection option. It consists of using a wireless integrated router to connect to the ISP. The router includes a switch to connect wired hosts and a wireless AP to connect wireless hosts. The router also provides client IP addressing information and security for inside hosts.
+
+![alt Isp Connections](../Images/IspConnections_image1.PNG)
+
+## CABLE AND DSL CONNECTIONS
+Most home network users do not connect to their service providers with fiber-optic cables.
+
+The two most common methods are as follows:
+- **Cable** 
+    - Typically offered by cable television service providers, the internet data signal is carried on the same coaxial cable that delivers cable television. It provides a high bandwidth, always on, connection to the internet. A special cable modem separates the internet data signal from the other signals carried on the cable and provides an Ethernet connection to a host computer or LAN.
+- **DSL** 
+    - Digital Subscriber Line provides a high bandwidth, always on, connection to the internet. It requires a special high-speed modem that separates the DSL signal from the telephone signal and provides an Ethernet connection to a host computer or LAN. 
+    - DSL runs over a telephone line, with the line split into three channels. One channel is used for voice telephone calls. This channel allows an individual to receive phone calls without disconnecting from the internet. A second channel is a faster download channel, used to receive information from the internet. The third channel is used for sending or uploading information. This channel is usually slightly slower than the download channel. The quality and speed of the DSL connection depends mainly on the quality of the phone line and the distance from the central office of your phone company The farther you are from the central office, the slower the connection.
+
+    ## ADDITIONAL CONNECTIVITY OPTIONS
+    Other ISP connection options for home users include the following: 
+    - Cellular
+    - Satellite
+    - Dial-up Telephone
+
+    
