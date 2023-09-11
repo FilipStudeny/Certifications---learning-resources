@@ -37,6 +37,9 @@ Encoding or line encoding is a method of converting a stream of data bits into a
 
 > For example, Manchester encoding represents a 0 bit by a high to low voltage transition, and a 1 bit is represented as a low to high voltage transition.
 
+> Which physical layer network standard would use 8B/10B encoding?
+> 1000BASE-T
+
 ### Signaling
 The physical layer must generate the electrical, optical, or wireless signals that represent the "1" and "0" on the media. The way that bits are represented is called the signaling method. The physical layer standards must define what type of signal represents a "1" and what type of signal represents a "0"
 
